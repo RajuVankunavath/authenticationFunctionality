@@ -1,0 +1,9 @@
+/* Write your CSS code here */
+.header-container {
+  display: flex;
+  /* align-items: center; */
+  justify-content: center;
+}
+.nav-link {
+  padding: 5px;
+}
